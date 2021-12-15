@@ -12,4 +12,4 @@ func FileExists(path string) bool {
 			return false
 		}
 	}
-} 
+}
